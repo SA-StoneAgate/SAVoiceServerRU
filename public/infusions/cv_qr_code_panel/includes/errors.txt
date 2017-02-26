@@ -1,0 +1,442 @@
+2017-02-23 23:54:16: <br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>251</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>272</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>274</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>275</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>279</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>281</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>286</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>290</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>291</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>293</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: settings in <b>L:\OpenServer\domains\My-PHP-Fusion\public\locale\Russian\global.php</b> on line <b>295</b><br />
